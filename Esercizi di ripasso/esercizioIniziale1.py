@@ -20,11 +20,17 @@ Crea poi i seguenti metodi:
 Nel main poi crea almeno un'istanza e richiama su di essa tutti
 i metodi implementati.
 '''
+import personaggio
+from personaggio import Personaggio
 
 
 def main():
-    #...
-    pass
+    p = Personaggio(nome="Mario", vita=100, energia=50, monete=10)
+    p.mostra_stato()
+    p.cura(10)
+    p.subisci_danno(50)
+    p.compra_pozione(5)
+    p.mostra_stato()
 
 if __name__ == "__main__": #esegui questa parte quando questo file è il programma principale
     main()
