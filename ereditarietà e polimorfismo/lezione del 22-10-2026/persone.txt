@@ -1,0 +1,5 @@
+P;Mario;Rossi;45
+S;Luca;Bianchi;17;4A;7.5
+P;Anna;Verdi;38
+S;Sara;Neri;18;4B;8.2
+S;Marco;Gialli;17;4A;6.4
