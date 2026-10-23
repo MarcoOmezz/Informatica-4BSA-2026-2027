@@ -1,0 +1,6 @@
+P;P001;Quaderno;2.50;100
+E;E001;Mouse;15.90;20;24
+A;A001;Maglietta;19.90;30;M
+E;E002;Tastiera;35.00;15;36
+P;P002;Penna;1.20;200
+A;A002;Felpa;39.90;12;L
