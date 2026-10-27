@@ -1,0 +1,5 @@
+L;Il Piccolo Principe;Saint-Exupery;12.50
+S;Matematica Blu;Bergamini;28.00;Matematica;3
+L;1984;Orwell;15.00
+S;Fisica per tutti;Rossi;32.00;Fisica;4
+S;Chimica Base;Bianchi;25.00;Chimica;3
